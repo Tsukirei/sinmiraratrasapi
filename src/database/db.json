@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Tommy Oliver",
+      "password": "Green Ranger",
+      "Level1": " 2 tesis"
+    },
+    {
+      "id": "2",
+      "name": "Trini huan",
+      "password": "Yellow Ranger",
+      "Level1": "3 tesis"
+    },
+    {
+      "name": "Tommy Oliver",
+      "password": "Green Ranger",
+      "id": "57f1601e-0a7b-448d-9ff6-4532ca5f439c",
+      "createAt": "6/30/2023"
+    }
+  ]
+}
